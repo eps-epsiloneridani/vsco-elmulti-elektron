@@ -1,0 +1,339 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'ViolaEnsSpic'
+
+[[key-zones]]
+pitch = 48
+key-center = 48.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-048-c2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-048-c2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-048-c2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-048-c2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 52
+key-center = 52.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-052-e2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-052-e2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-052-e2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-052-e2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 55
+key-center = 55.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-055-g2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-055-g2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-055-g2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-055-g2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 59
+key-center = 59.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-059-b2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-059-b2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-059-b2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-059-b2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 62
+key-center = 62.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-062-d3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-062-d3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-062-d3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-062-d3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 65
+key-center = 65.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-065-f3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-065-f3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-065-f3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-065-f3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 69
+key-center = 69.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-069-a3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-069-a3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-069-a3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-069-a3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 72
+key-center = 72.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-072-c4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-072-c4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 76
+key-center = 76.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-076-e4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-076-e4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-076-e4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-076-e4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 79
+key-center = 79.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-079-g4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-079-g4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-079-g4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-079-g4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 83
+key-center = 83.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-083-b4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-083-b4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-083-b4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-083-b4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 86
+key-center = 86.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-086-d5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-000-086-d5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-086-d5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolaEnsSpic-001-086-d5-rr1.wav'
+loop-mode = 'Off'

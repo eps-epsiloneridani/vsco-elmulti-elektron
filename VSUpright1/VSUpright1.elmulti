@@ -1,0 +1,563 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'VSUpright1'
+
+[[key-zones]]
+pitch = 24
+key-center = 24.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-024-c0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-024-c0-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-024-c0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6377952755905512
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-024-c0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-003-024-c0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 31
+key-center = 31.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-031-g0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-031-g0-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-031-g0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6377952755905512
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-031-g0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-003-031-g0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 36
+key-center = 36.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-036-c1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-036-c1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-036-c1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 43
+key-center = 43.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-043-g1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-043-g1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-043-g1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-043-g1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-043-g1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-043-g1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 48
+key-center = 48.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-048-c2.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-048-c2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-048-c2.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-048-c2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-048-c2.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-048-c2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 55
+key-center = 55.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-055-g2.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-055-g2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-055-g2.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-055-g2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-055-g2.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-055-g2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 60
+key-center = 60.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-060-c3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-060-c3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-060-c3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-060-c3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-060-c3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-060-c3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 67
+key-center = 67.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-067-g3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-067-g3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-067-g3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-067-g3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-067-g3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-067-g3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 72
+key-center = 72.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 79
+key-center = 79.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-079-g4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-079-g4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-079-g4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-079-g4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-079-g4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-079-g4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 84
+key-center = 84.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-084-c5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-084-c5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-084-c5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-084-c5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-084-c5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-084-c5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 91
+key-center = 91.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-091-g5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-091-g5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-091-g5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-091-g5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-091-g5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-091-g5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 96
+key-center = 96.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-096-c6.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-096-c6-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-096-c6.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-096-c6-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-096-c6.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-096-c6-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 103
+key-center = 103.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-103-g6.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-000-103-g6-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.48031496062992124
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-103-g6.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-001-103-g6-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8740157480314961
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-103-g6.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'VSUpright1-002-103-g6-rr1.wav'
+loop-mode = 'Off'

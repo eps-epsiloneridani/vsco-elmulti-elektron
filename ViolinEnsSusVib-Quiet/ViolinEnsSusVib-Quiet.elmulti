@@ -1,0 +1,135 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'ViolinEnsSusVib-Quiet'
+
+[[key-zones]]
+pitch = 55
+key-center = 55.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-055-g2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 57
+key-center = 57.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-057-a2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 59
+key-center = 59.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-059-b2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 62
+key-center = 62.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-062-d3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 66
+key-center = 66.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-066-f#3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 69
+key-center = 69.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-069-a3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 72
+key-center = 72.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 76
+key-center = 76.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-076-e4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 79
+key-center = 79.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-079-g4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 83
+key-center = 83.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-083-b4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 86
+key-center = 86.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'ViolinEnsSusVib-Quiet-000-086-d5.wav'
+loop-mode = 'Off'
