@@ -1,0 +1,163 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'TrumpetStraightMuteSus'
+
+[[key-zones]]
+pitch = 58
+key-center = 58.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-000-058-a#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-001-058-a#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 60
+key-center = 60.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-000-060-c3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-001-060-c3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 62
+key-center = 62.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-000-062-d3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-001-062-d3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 67
+key-center = 67.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-000-067-g3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-001-067-g3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 70
+key-center = 70.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-000-070-a#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-001-070-a#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 74
+key-center = 74.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-000-074-d4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-001-074-d4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 77
+key-center = 77.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-000-077-f4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-001-077-f4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 81
+key-center = 81.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-000-081-a4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TrumpetStraightMuteSus-001-081-a4-rr0.wav'
+loop-mode = 'Off'

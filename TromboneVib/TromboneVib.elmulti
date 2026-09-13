@@ -1,0 +1,143 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'TromboneVib'
+
+[[key-zones]]
+pitch = 41
+key-center = 41.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-041-f1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 44
+key-center = 44.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-044-g#1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 46
+key-center = 46.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-046-a#1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 48
+key-center = 48.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-048-c2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 51
+key-center = 51.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-051-d#2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 53
+key-center = 53.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-053-f2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 56
+key-center = 56.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-056-g#2.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-001-056-g#2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 58
+key-center = 58.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-058-a#2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 60
+key-center = 60.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-060-c3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 62
+key-center = 62.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-062-d3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 63
+key-center = 63.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TromboneVib-000-063-d#3.wav'
+loop-mode = 'Off'

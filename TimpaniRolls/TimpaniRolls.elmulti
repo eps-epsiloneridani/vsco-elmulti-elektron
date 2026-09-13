@@ -1,0 +1,103 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'TimpaniRolls'
+
+[[key-zones]]
+pitch = 42
+key-center = 42.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-000-042-f#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6377952755905512
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-001-042-f#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 46
+key-center = 46.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-000-046-a#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6377952755905512
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-001-046-a#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 49
+key-center = 49.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-000-049-c#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6377952755905512
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-001-049-c#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 52
+key-center = 52.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-000-052-e2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6377952755905512
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-001-052-e2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 54
+key-center = 54.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-000-054-f#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6377952755905512
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'TimpaniRolls-001-054-f#2-rr0.wav'
+loop-mode = 'Off'
