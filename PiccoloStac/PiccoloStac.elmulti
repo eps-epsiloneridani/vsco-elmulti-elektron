@@ -1,0 +1,63 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'PiccoloStac'
+
+[[key-zones]]
+pitch = 70
+key-center = 70.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'PiccoloStac-000-070-a#3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 79
+key-center = 79.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'PiccoloStac-000-079-g4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 82
+key-center = 82.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'PiccoloStac-000-082-a#4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 91
+key-center = 91.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'PiccoloStac-000-091-g5.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 94
+key-center = 94.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'PiccoloStac-000-094-a#5.wav'
+loop-mode = 'Off'

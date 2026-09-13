@@ -1,0 +1,135 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'OrganLoudPedal'
+
+[[key-zones]]
+pitch = 36
+key-center = 36.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-036-c1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 39
+key-center = 39.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-039-d#1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 42
+key-center = 42.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-042-f#1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 45
+key-center = 45.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-045-a1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 48
+key-center = 48.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-048-c2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 51
+key-center = 51.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-051-d#2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 54
+key-center = 54.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-054-f#2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 57
+key-center = 57.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-057-a2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 60
+key-center = 60.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-060-c3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 63
+key-center = 63.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-063-d#3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 66
+key-center = 66.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganLoudPedal-000-066-f#3.wav'
+loop-mode = 'Off'

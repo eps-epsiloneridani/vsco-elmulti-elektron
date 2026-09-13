@@ -1,0 +1,255 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'OrganQuiet'
+
+[[key-zones]]
+pitch = 36
+key-center = 36.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-036-c1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 39
+key-center = 39.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-039-d#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 42
+key-center = 42.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-042-f#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 45
+key-center = 45.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-045-a1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 48
+key-center = 48.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-048-c2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 51
+key-center = 51.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-051-d#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 54
+key-center = 54.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-054-f#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 57
+key-center = 57.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-057-a2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 60
+key-center = 60.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-060-c3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 63
+key-center = 63.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-063-d#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 66
+key-center = 66.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-066-f#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 69
+key-center = 69.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-069-a3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 72
+key-center = 72.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-072-c4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 75
+key-center = 75.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-075-d#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 78
+key-center = 78.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-078-f#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 81
+key-center = 81.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-081-a4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 84
+key-center = 84.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-084-c5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 87
+key-center = 87.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-087-d#5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 90
+key-center = 90.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-090-f#5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 93
+key-center = 93.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-093-a5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 96
+key-center = 96.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'OrganQuiet-000-096-c6-rr0.wav'
+loop-mode = 'Off'
