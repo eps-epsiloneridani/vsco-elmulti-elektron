@@ -1,0 +1,1539 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'GM-StylePerc'
+
+[[key-zones]]
+pitch = 32
+key-center = 32.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-032-g#0-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 33
+key-center = 33.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-033-a0-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 34
+key-center = 34.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-034-a#0-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 35
+key-center = 35.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-035-b0-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 36
+key-center = 36.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-036-c1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.14173228346456693
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-036-c1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.28346456692913385
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-036-c1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.4251968503937008
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-036-c1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.5669291338582677
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-004-036-c1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-004-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7086614173228346
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-005-036-c1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-005-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.8503937007874016
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-006-036-c1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-006-036-c1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 37
+key-center = 37.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-037-c#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-037-c#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.2440944881889764
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-037-c#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-037-c#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-037-c#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-037-c#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7480314960629921
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-037-c#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-037-c#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 38
+key-center = 38.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-038-d1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-038-d1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.1968503937007874
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-038-d1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-038-d1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.3937007874015748
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-038-d1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-038-d1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.5984251968503937
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-038-d1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-038-d1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7952755905511811
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-004-038-d1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-004-038-d1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 39
+key-center = 39.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-039-d#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-039-d#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-039-d#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-039-d#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-039-d#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-039-d#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 40
+key-center = 40.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-040-e1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-040-e1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.2440944881889764
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-040-e1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-040-e1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-040-e1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-040-e1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7480314960629921
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-040-e1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-040-e1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 41
+key-center = 41.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-041-f1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-041-f1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-041-f1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-041-f1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-041-f1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-041-f1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 42
+key-center = 42.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-042-f#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-042-f#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.5118110236220472
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-042-f#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-042-f#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 46
+key-center = 46.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-046-a#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-046-a#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.2677165354330709
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-046-a#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-046-a#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.5118110236220472
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-046-a#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-046-a#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7716535433070866
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-046-a#1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-046-a#1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 47
+key-center = 47.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-047-b1-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-047-b1-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 48
+key-center = 48.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-048-c2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-048-c2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 49
+key-center = 49.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-049-c#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-049-c#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.2440944881889764
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-049-c#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-049-c#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-049-c#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-049-c#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7480314960629921
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-049-c#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-049-c#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 50
+key-center = 50.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-050-d2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-050-d2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 51
+key-center = 51.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-051-d#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-051-d#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.2440944881889764
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-051-d#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-051-d#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-051-d#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-051-d#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7480314960629921
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-051-d#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-051-d#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 53
+key-center = 53.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-053-f2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-053-f2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 54
+key-center = 54.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-054-f#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-054-f#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-054-f#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-054-f#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 55
+key-center = 55.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-055-g2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-055-g2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-055-g2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-055-g2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-055-g2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-055-g2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 56
+key-center = 56.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-056-g#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-056-g#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.2440944881889764
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-056-g#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-056-g#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-056-g#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-056-g#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7480314960629921
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-056-g#2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-056-g#2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 59
+key-center = 59.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-059-b2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-059-b2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.2440944881889764
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-059-b2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-059-b2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-059-b2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-059-b2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7480314960629921
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-059-b2-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-003-059-b2-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 60
+key-center = 60.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-060-c3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-060-c3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 61
+key-center = 61.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-061-c#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-061-c#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-061-c#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-061-c#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-061-c#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-061-c#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 62
+key-center = 62.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-062-d3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-062-d3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 63
+key-center = 63.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-063-d#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-063-d#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-063-d#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-063-d#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-063-d#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-063-d#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 64
+key-center = 64.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-064-e3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-064-e3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 65
+key-center = 65.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-065-f3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-065-f3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-065-f3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-065-f3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-065-f3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-065-f3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 67
+key-center = 67.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-067-g3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-067-g3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-067-g3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-067-g3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-067-g3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-067-g3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 68
+key-center = 68.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-068-g#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-068-g#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-068-g#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-068-g#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-068-g#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-068-g#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 69
+key-center = 69.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-069-a3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-069-a3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 70
+key-center = 70.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-070-a#3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-070-a#3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 71
+key-center = 71.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-071-b3-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-071-b3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 72
+key-center = 72.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-072-c4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 75
+key-center = 75.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-075-d#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-075-d#4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-075-d#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-075-d#4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-075-d#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-075-d#4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 76
+key-center = 76.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-076-e4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-076-e4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-076-e4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-076-e4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-076-e4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-076-e4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 77
+key-center = 77.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-077-f4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-077-f4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-077-f4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-077-f4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-077-f4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-002-077-f4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 78
+key-center = 78.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-078-f#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-078-f#4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-078-f#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-078-f#4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 79
+key-center = 79.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-079-g4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-079-g4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-079-g4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-079-g4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 80
+key-center = 80.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-080-g#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-080-g#4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-080-g#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-080-g#4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 81
+key-center = 81.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-081-a4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-081-a4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-081-a4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-081-a4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 82
+key-center = 82.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-082-a#4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-082-a#4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 83
+key-center = 83.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-083-b4-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-083-b4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 84
+key-center = 84.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-084-c5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-084-c5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 85
+key-center = 85.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-085-c#5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-085-c#5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 86
+key-center = 86.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-086-d5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-086-d5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 88
+key-center = 88.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-088-e5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-088-e5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-088-e5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-001-088-e5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 94
+key-center = 94.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-094-a#5-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-094-a#5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 101
+key-center = 101.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-101-f6-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-101-f6-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 102
+key-center = 102.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-102-f#6-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-102-f#6-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 103
+key-center = 103.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-103-g6-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-103-g6-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 104
+key-center = 104.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-104-g#6-rr0.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'GM-StylePerc-000-104-g#6-rr1.wav'
+loop-mode = 'Off'

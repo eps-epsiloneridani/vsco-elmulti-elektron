@@ -1,0 +1,323 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'FluteStac'
+
+[[key-zones]]
+pitch = 69
+key-center = 69.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-069-a3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-069-a3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-069-a3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-069-a3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-069-a3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-069-a3-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 72
+key-center = 72.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.2440944881889764
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.7480314960629921
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-003-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-003-072-c4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 76
+key-center = 76.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-076-e4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-076-e4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-076-e4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-076-e4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-076-e4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-076-e4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 81
+key-center = 81.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-081-a4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-081-a4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-081-a4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-081-a4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-081-a4.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-081-a4-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 84
+key-center = 84.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-084-c5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-084-c5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-084-c5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-084-c5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-084-c5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-084-c5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 88
+key-center = 88.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-088-e5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-088-e5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-088-e5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-088-e5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-088-e5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-088-e5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 93
+key-center = 93.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-093-a5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-093-a5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-093-a5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-093-a5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-093-a5.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-002-093-a5-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 96
+key-center = 96.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-096-c6.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-000-096-c6-rr1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-096-c6.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FluteStac-001-096-c6-rr1.wav'
+loop-mode = 'Off'

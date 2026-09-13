@@ -1,0 +1,75 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'Glockenspiel'
+
+[[key-zones]]
+pitch = 67
+key-center = 67.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Glockenspiel-000-067-g3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 72
+key-center = 72.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Glockenspiel-000-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 79
+key-center = 79.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Glockenspiel-000-079-g4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 84
+key-center = 84.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Glockenspiel-000-084-c5.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 91
+key-center = 91.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Glockenspiel-000-091-g5.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 96
+key-center = 96.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Glockenspiel-000-096-c6.wav'
+loop-mode = 'Off'

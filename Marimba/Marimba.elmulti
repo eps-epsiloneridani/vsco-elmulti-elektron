@@ -1,0 +1,123 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'Marimba'
+
+[[key-zones]]
+pitch = 41
+key-center = 41.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-041-f1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 48
+key-center = 48.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-048-c2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 55
+key-center = 55.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-055-g2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 59
+key-center = 59.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-059-b2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 65
+key-center = 65.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-065-f3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 72
+key-center = 72.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-072-c4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 79
+key-center = 79.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-079-g4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 83
+key-center = 83.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-083-b4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 89
+key-center = 89.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-089-f5.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 96
+key-center = 96.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'Marimba-000-096-c6.wav'
+loop-mode = 'Off'

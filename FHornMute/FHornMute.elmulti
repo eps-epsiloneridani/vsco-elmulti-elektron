@@ -1,0 +1,175 @@
+# ELEKTRON MULTI-SAMPLE MAPPING FORMAT
+version = 0
+name = 'FHornMute'
+
+[[key-zones]]
+pitch = 46
+key-center = 46.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-000-046-a#1.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-001-046-a#1.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 51
+key-center = 51.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-000-051-d#2.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-001-051-d#2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 53
+key-center = 53.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-000-053-f2.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-001-053-f2.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 60
+key-center = 60.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-000-060-c3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.33070866141732286
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-001-060-c3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.6614173228346457
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-002-060-c3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 63
+key-center = 63.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-000-063-d#3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-001-063-d#3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 68
+key-center = 68.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-000-068-g#3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-001-068-g#3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 70
+key-center = 70.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-000-070-a#3.wav'
+loop-mode = 'Off'
+
+[[key-zones.velocity-layers]]
+velocity = 0.49606299212598426
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-001-070-a#3.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 74
+key-center = 74.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-000-074-d4.wav'
+loop-mode = 'Off'
+
+[[key-zones]]
+pitch = 77
+key-center = 77.0
+
+[[key-zones.velocity-layers]]
+velocity = 0.0
+strategy = 'Forward'
+
+[[key-zones.velocity-layers.sample-slots]]
+sample = 'FHornMute-000-077-f4.wav'
+loop-mode = 'Off'
